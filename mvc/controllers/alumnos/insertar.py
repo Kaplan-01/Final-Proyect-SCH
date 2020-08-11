@@ -36,6 +36,7 @@ class Insertar():
             estado = form.estado
             model_alumnos.insertar(matricula, nombre, primer_apellido, segundo_apellido, edad, fecha_nacimiento, sexo, estado)
             print(form)
+            web.seeother('/list/')
 
         except Exception as e:
             return render.insertar()
