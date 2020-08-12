@@ -1,6 +1,6 @@
-CREATE DATABASE escuela;
+CREATE DATABASE dryrt85pugo14t5y;
 
-USE escuela;
+USE dryrt85pugo14t5y;
 
 CREATE TABLE alumnos(
     id_alumno int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -16,9 +16,5 @@ CREATE TABLE alumnos(
 
 INSERT INTO alumnos(matricula, nombre, primer_apellido, segundo_apellido, edad, fecha_nacimiento, sexo, estado)
 VALUES 
-(1718110389,'Melanie', 'Kaplan', 'Maldonado', 19, '2000-03-70', 'Femenino', 'Soltero'),
+(1718110389,'Carmen', 'Kaplan', 'Maldonado', 19, '2000-03-70', 'Femenino', 'Soltero'),
 (1718110399,'Nicholas', 'Bladel', 'Hoult', 30, '1990-01-11', 'Masculino', 'Casado');
-
-CREATE USER 'melanie'@'localhost' IDENTIFIED BY 'Agenda.2020';
-GRANT ALL PRIVILEGES ON escuela.* TO 'melanie'@'localhost';
-FLUSH PRIVILEGES;
