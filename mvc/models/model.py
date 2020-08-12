@@ -13,11 +13,11 @@ class Alumnos():
             try:
                 self.cnx = mysql.connector.connect(
                     # Usamos el nombre de nuestro usuario con la contrasena.
-                    user='melanie', 
-                    password='Agenda.2020',
-                    host='127.0.0.1',
+                    user='t6n6d1pvbsk9wnow', 
+                    password='oegebpysjpx22mfi',
+                    host='ol5tz0yvwp930510.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
                     port=3309,
-                    database='escuela'
+                    database='dryrt85pugo14t5y'
                     )
                 self.cursor = self.cnx.cursor()
 
