@@ -1,5 +1,3 @@
-CREATE DATABASE dryrt85pugo14t5y;
-
 USE dryrt85pugo14t5y;
 
 CREATE TABLE alumnos(

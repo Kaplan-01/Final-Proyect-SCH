@@ -138,8 +138,8 @@ class Alumnos():
 
 objeto = Alumnos()
 objeto.connect()
-objeto.modificar(7, 123423567,'Melanie', 'Kaplan', 'Armstrong', 19, '2000-10-10', 'Femenino', 'Soltero'),
 
+# objeto.modificar(7, 123423567,'Melanie', 'Kaplan', 'Armstrong', 19, '2000-10-10', 'Femenino', 'Soltero'),
 #for row in objeto.select():
 #    print(row)
 
