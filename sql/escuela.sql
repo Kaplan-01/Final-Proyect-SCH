@@ -1,4 +1,4 @@
-USE dryrt85pugo14t5y;
+USE bwnvg0mm64o1zf73;
 
 CREATE TABLE alumnos(
     id_alumno int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -14,5 +14,5 @@ CREATE TABLE alumnos(
 
 INSERT INTO alumnos(matricula, nombre, primer_apellido, segundo_apellido, edad, fecha_nacimiento, sexo, estado)
 VALUES 
-(171811389,'Carmen', 'Kaplan', 'Bladell', 19, '2000-10-10', 'Femenino', 'Soltero'),
-(171811399,'Nicholas', 'Bladell', 'Hoult', 30, '1990-01-11', 'Masculino', 'Casado');
+(1718110389,'Carmen', 'Kaplan', 'Maldonado', 19, '2000-01-10', 'Femenino', 'Soltero'),
+(1718110399,'Nicholas', 'Bladel', 'Hoult', 30, '1990-01-11', 'Masculino', 'Casado');
