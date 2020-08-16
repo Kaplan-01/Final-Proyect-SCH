@@ -16,7 +16,7 @@ class Alumnos():
                     user='hjqz78ypq3u6ghdf', 
                     password='biodqrcu5739n88h',
                     host='ol5tz0yvwp930510.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-                    port=3309,
+                    port=3306,
                     database='bwnvg0mm64o1zf73'
                     )
                 self.cursor = self.cnx.cursor()
