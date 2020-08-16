@@ -1,6 +1,7 @@
 # Final-Proyect-SCH :full_moon:
 
-[Ver este proyecto en Heroku](https://fina1proyect.herokuapp.com/ "Heroku Link")  ||  2020-08-16 :alien:
+|  2020-08-16 :alien:
+[Ver este proyecto en Heroku](https://fina1proyect.herokuapp.com/ "Heroku Link") 
 
 #### Usa Bulma :crystal_ball:
 `$ npm install bulma`
