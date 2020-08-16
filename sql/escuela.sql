@@ -15,4 +15,4 @@ CREATE TABLE alumnos(
 INSERT INTO alumnos(matricula, nombre, primer_apellido, segundo_apellido, edad, fecha_nacimiento, sexo, estado)
 VALUES 
 (1718110389,'Carmen', 'Kaplan', 'Maldonado', 19, '2000-10-10', 'Femenino', 'Soltero'),
-(1718110399,'Nicholas', 'Bladel', 'Hoult', 30, '1990-01-11', 'Masculino', 'Casado');
+(1718110399,'Nicholas', 'Bladell', 'Hoult', 30, '1990-01-11', 'Masculino', 'Casado');
