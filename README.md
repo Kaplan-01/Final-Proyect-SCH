@@ -5,7 +5,7 @@
 #### Usa Bulma :crystal_ball:
 `$ npm install bulma`
 
-**C.R.U.D Plantilla estudiantes**  :notebook:
+:notebook: **C.R.U.D Plantilla estudiantes** 
 
 ### Acciones: 
 	Insertar 
