@@ -13,3 +13,10 @@
 	Actualizar
 	Borrar
 	Mostrar
+
+# Capturas
+
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/Final-Proyect-SCH/blob/master/Capturas/MCHD_1.PNG "Example")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/Final-Proyect-SCH/blob/master/Capturas/MCHD_2.PNG "Example")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/Final-Proyect-SCH/blob/master/Capturas/MCHD_3.PNG "Example")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/Final-Proyect-SCH/blob/master/Capturas/MCHD_4.PNG "Example")
