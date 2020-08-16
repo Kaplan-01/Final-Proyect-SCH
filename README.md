@@ -1,3 +1,11 @@
 # Final-Proyect-SCH
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+** C.R.U.D Plantilla estudiantes      **  :tw-1f4d2: 
+
+[========]
+
+###### Acciones: 
+			Insertar 
+			Actualizar
+			Borrar
+			Mostrar
